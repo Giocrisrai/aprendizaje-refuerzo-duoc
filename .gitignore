@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+notebooks/bitacora_*.csv
+notebooks/entrega_*
+*.zip
+.DS_Store
