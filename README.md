@@ -1,4 +1,6 @@
 # Aprendizaje por Refuerzo: métricas, técnicas y desafío
+
+> **English summary.** Reinforcement learning course material at Duoc UC (Puerto Montt): notebooks, modules and data that run in Colab. The rest of this document is in Spanish.
 **Machine Learning · Duoc UC, Escuela de Informática y Telecomunicaciones (Puerto Montt)**
 
 Este repositorio alcanza para la clase. Trae las dos unidades, los módulos de Python y los CSV. En Colab no se sube ningún archivo aparte: la primera celda clona este mismo repositorio.
